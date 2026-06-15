@@ -1,0 +1,16 @@
+{
+  "project": "IPL Sentiment Classification",
+  "dataset_train": "ipl_300R_indian_english_sentiment_dataset.csv",
+  "dataset_test": "ipl_sentiment_small_dataset.csv",
+  "best_model": "Count_NB",
+  "accuracy": 0.6875,
+  "macro_f1": 0.6734,
+  "artifacts": [
+    "results_80R.csv",
+    "best_model.pkl",
+    "README.md",
+    "vectorizer_classifier_justification.md",
+    "error_analysis.md",
+    "requirements.txt"
+  ]
+}
